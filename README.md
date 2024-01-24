@@ -1,2 +1,2 @@
-# ResponsivePage_Design basic .
+# Basic responsive page .
 # my-new-branch .
