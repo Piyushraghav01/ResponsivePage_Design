@@ -1,1 +1,1 @@
-# ResponsivePage_Design basic.
+# Basic responsive page .
