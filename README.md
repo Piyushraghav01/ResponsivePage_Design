@@ -1,1 +1,1 @@
-# Basic responsive page .
+# Basic responsive page using css .
